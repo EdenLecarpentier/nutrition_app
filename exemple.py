@@ -5,6 +5,6 @@ st.title("nutrition_app")
 def load_data():
   csv_file = pd.read_csv("nutrition_databse.csv")
   
- def first_plot():
+def first_plot():
   st.write(load_data)
   
