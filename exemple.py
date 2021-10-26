@@ -6,5 +6,5 @@ def load_data():
   csv_file = pd.read_csv("nutrition_databse.csv")
   
 def first_plot():
-  st.write(load_data)
+  st.line_chart(load_data)
   
