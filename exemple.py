@@ -1,3 +1,6 @@
+#pip
+pip install plotly_express
+
 #Streamlit
 import streamlit as st
 st.title("nutrition_app")
