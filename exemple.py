@@ -1,5 +1,5 @@
 #pip
-pip install plotly_express
+pip install plotly
 
 #Streamlit
 import streamlit as st
