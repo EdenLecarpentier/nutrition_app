@@ -16,3 +16,4 @@ fig.update_layout(title=‘IRR’, autosize=False,
 width=800, height=800,
 margin=dict(l=40, r=40, b=40, t=40))
 st.plotly_chart(fig)
+ 
