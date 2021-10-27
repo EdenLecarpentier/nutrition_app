@@ -9,5 +9,3 @@ if uploaded_file is not None :
   st.write(df)
   st.line_chart(df)
  
-st.line_chart(df)
- 
