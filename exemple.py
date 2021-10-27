@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
-import matplotlib
+import matplotlib.pyplot as plt
+import plotly.express as px 
 
 
 uploaded_file = st.file_uploader("Choose a file")
